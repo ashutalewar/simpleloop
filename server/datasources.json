@@ -1,1 +1,12 @@
-{}
+{
+  "mongods": {
+    "host": "",
+    "port": null,
+    "url": "mongodb://10.1.2.20:27017/newdb",
+    "database": "",
+    "password": "",
+    "name": "mongods",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
