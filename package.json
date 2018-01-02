@@ -19,6 +19,7 @@
     "loopback-component-explorer": "^2.4.0",
     "loopback-connector-mongodb": "^1.18.1",
     "loopback-datasource-juggler": "^2.39.0",
+    "morgan": "^1.9.0",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^2.0.0"
   },
