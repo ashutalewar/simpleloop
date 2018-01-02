@@ -15,6 +15,6 @@
   },
   "message": {
     "dataSource": "mongods",
-    "public": false
+    "public": true
   }
 }
