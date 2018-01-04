@@ -4,8 +4,10 @@
   },
   "initial": {
     "compression": {},
-    "morgan" : {
-      "params": ["dev" ]
+    "morgan": {
+      "params": [
+        "dev"
+      ]
     },
     "cors": {
       "params": {
@@ -41,6 +43,12 @@
       "paths": [
         "${restApiRoot}"
       ]
+    },
+    "./middlewares/custom": {
+      "paths": [
+        "/newmethod3"
+      ],
+      "params": {}
     }
   },
   "files": {},
